@@ -1,0 +1,21 @@
+---
+  title: ""
+---
+  
+  <link rel="stylesheet" href="styles.css" type="text/css">
+  
+  <img src="images/profile1.jpg" style="width:20%; border:10px solid" align="center">  
+  
+  **Khairul Anuar Abdul Hamid**  
+  **Assistant IT Officer**  
+  **IT Section, Department of Facility & ICT**  
+  **UiTM Kedah**  
+  ---
+  
+  **BACKGROUND**  
+  djkfh aksdlfh h askfh dskjfh dkjfh dkjhf dkjfh dkjfh dsl d
+  adfh dfkjh sdkfjh djksfh klsdjfh sd
+  adf hdsklfh dkfh ldjkh fsdklf
+  aksdfh klasdjhf lkjsdfh a
+  dja fhalsdkjfh lkajdfh jkldfh a
+  f kad fhkjdhf kjfh 
